@@ -2,7 +2,7 @@
 
 A dynamic Laravel-based web application for managing vehicle service job cards, customer details, and inspection reports. Built as an intern assessment task for **Ragory LTD**.
 
-## 🚀 Features implemented
+##  Features implemented
 
 - **Dynamic Job Card Creation:**
   - Auto-generated Job IDs.
@@ -23,14 +23,14 @@ A dynamic Laravel-based web application for managing vehicle service job cards, 
 - **Invoicing:**
   - Clean, printable invoice/job card view with all details.
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Backend:** Laravel 10+, PHP, MySQL
 - **Frontend:** Blade Templates, Tailwind CSS
 - **Scripting:** Alpine.js (for dynamic rows)
 
-## ⚙️ Installation Guide
+##  Installation Guide
 
 1. **Clone the Repository**
    ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/rahim08717/job-card-system>

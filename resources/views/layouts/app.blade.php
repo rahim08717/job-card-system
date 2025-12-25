@@ -14,7 +14,7 @@
             <div class="flex justify-between h-16">
                 <div class="flex items-center">
                     <a href="{{ route('job_cards.index') }}" class="text-2xl font-bold text-blue-600">
-                        🚗 Car Service Pro
+                         Car Service
                     </a>
                 </div>
                 <div class="flex items-center">
@@ -48,7 +48,7 @@
     </main>
 
     <footer class="bg-white border-t mt-10 py-6 text-center text-gray-500 text-sm">
-        &copy; {{ date('Y') }} Car Service Management System. All rights reserved.
+        &copy; {{ date('Y') }} Md. Abdur Rahim. All rights reserved.
     </footer>
 
 </body>
